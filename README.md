@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Ariff
 
-<!--
-**ariff-azmi/ariff-azmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student studying Artificial Intelligence and Data at Universiti Teknologi MARA 
 
-Here are some ideas to get you started:
+## About me
+- Studying: computer science @ UiTM
+- Currently learning: software engineering, data analytics, git
+- My FYP area: still deciding
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills and tools
+-Java
+-Python
+-C++
+-SQL
+-HTML
+-XML
+
+## Projects
+- [Project name](link-to-your-repository): still working on it
+
+## Contact
+- LinkedIn: https://www.linkedin.com/in/ariffazmi23
+- Email: ayipex23@gmail.com
