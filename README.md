@@ -8,12 +8,7 @@ I'm a Computer Science student studying Artificial Intelligence and Data at Univ
 - My FYP area: still deciding
 
 ## Skills and tools
--Java
--Python
--C++
--SQL
--HTML
--XML
+-Java, Python, C++,SQL ,HTML, XML
 
 ## Projects
 - [Project name](link-to-your-repository): still working on it
